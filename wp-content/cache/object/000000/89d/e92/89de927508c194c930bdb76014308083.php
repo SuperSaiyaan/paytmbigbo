@@ -1,0 +1,1 @@
+¶Õ½V<?php exit; ?>a:1:{s:7:"content";a:3:{s:13:"_bbp_forum_id";a:1:{i:0;s:3:"730";}s:13:"_bbp_topic_id";a:1:{i:0;s:4:"3488";}s:14:"_bbp_author_ip";a:1:{i:0;s:12:"125.20.39.66";}}}
